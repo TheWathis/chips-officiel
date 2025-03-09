@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.my-4 li {
+  display: grid;
+  grid-template-columns: 200px auto 200px;
+  align-items: center;
+  margin-bottom: 0.3rem;
+}
+
+.my-4 li .prefix {
+  text-align: right;
+  margin-right: 0.5rem;
+}
+
+.my-4 li .chips {
+  text-align: left;
+  margin-right: 0.5rem;
+  white-space: nowrap;
+}
+
+.my-4 li .suffix {
+  text-align: left;
+}
