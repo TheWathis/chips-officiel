@@ -12,7 +12,7 @@ export default function Home() {
           alt="the Fresh logo: a sliced lemon dripping with juice"
         />
         <h1 class="text-4xl font-bold">
-          Bienvenu sur la liste de chips officiel !
+          Bienvenue sur la liste de chips officiel !
         </h1>
         <p class="my-4 italic">
           Approuvé par le créateur de ce site, tout autre personne qui dira le
