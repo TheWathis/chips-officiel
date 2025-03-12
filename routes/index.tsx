@@ -34,6 +34,7 @@ export default function Home() {
           <ChipsItem prefix="Super galaxie" suffix="" />
           <ChipsItem prefix="Univers" suffix="" />
           <ChipsItem prefix="Super univers" suffix="" />
+          <ChipsItem prefix="" suffix="Infini" />
         </ul>
       </div>
     </div>
